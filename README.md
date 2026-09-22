@@ -1,4 +1,4 @@
-﻿# 🛡️ VoiceGuard AI — Real-Time Voice Impersonation Detection & Prevention
+# 🛡️ VoiceGuard AI — Real-Time Voice Impersonation Detection & Prevention
 
 > **Smart India Hackathon 2026 | Problem Statement: SIH26104**
 > **Organization: AICTE Cyber Security Cell**
